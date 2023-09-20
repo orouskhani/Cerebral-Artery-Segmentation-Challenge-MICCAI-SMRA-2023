@@ -19,9 +19,10 @@ https://drive.google.com/drive/folders/1-Ph83oPgZAXDB5iKADSZgCjNb6-BP2Hk?usp=dri
 
 Original Image:
 </br>
-![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/snapshot0002.png?raw=true)
-</br>
+![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/snapshot0002.png)
+
 Segmented image:
-![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/snapshot0001.png?raw=true)
+</br>
+![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/snapshot0001.png)
 
 
