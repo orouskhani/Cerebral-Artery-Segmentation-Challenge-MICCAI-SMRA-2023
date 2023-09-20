@@ -29,3 +29,4 @@ Training and Validation Error:
 </br>
 ![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/progress.png)
 
+<img src="[https://github.com/favicon.ico](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/progress.png)https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/progress.png" width="48">
