@@ -25,4 +25,7 @@ Predicted Mask by Our Model:
 </br>
 ![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/snapshot0001.png)
 
+Training and Validation Error:
+</br>
+![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/progress.png)
 
