@@ -2,7 +2,8 @@
 We got the rank 9 of 21 in Cerebral Artery Segmentation Challenge by MICCAI and SMRA 2023
 
 
-We used nnU-Net with default configuration such as batch size of 2 and Dice+CE as loss function. Our model (UW) got rank 9 of 21 in Cerebral Artery Segmentation Challenge by MICCAI and SMRA 2023.
+We used nnU-Net with default configuration such as batch size of 2 and Dice+CE as loss function. The model is trained with 100 public data and tested with 50 unseen images by challenge organizers. 
+Our model (UW) got rank 9 of 21 in Cerebral Artery Segmentation Challenge by MICCAI and SMRA 2023.
 Link:
 https://codalab.lisn.upsaclay.fr/competitions/9804
 
