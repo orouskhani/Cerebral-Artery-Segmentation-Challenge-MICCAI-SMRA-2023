@@ -21,6 +21,7 @@ Original Image:
 </br>
 ![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/snapshot0002.png?raw=true)
 
+</br>
 Segmented image:
 ![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/snapshot0001.png?raw=true)
 
