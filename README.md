@@ -18,7 +18,11 @@ AHDstenosis: 0.8482
 # Inference
 
 1- Install nnU-Net from the original repository (https://github.com/MIC-DKFZ/nnUNet) , or the code we shared here. 
+
+
 2- Download the trained models via the link: https://drive.google.com/drive/folders/1Fro2-AGPkQBmvlAqmahko-fMv7B21dXb?usp=sharing
+
+
 3- Copy the test images to "nnUNet_raw_data_base/nnUNet_raw_data/Task101_SCGM/imagesTs" and run the code:
 !nnUNet_predict -i nnUNet_raw_data_base/nnUNet_raw_data/Task101_SCGM/imagesTs -o nnUNet_Prediction_Results/Task101_SCGM -t 101 -tr nnUNetTrainerV2 -m 3d_fullres --num_threads_preprocessing 1
 
