@@ -15,8 +15,17 @@ DSCstenosis: 0.8999
 AHD: 0.8874
 AHDstenosis: 0.8482
 
-*** Please find the output segmented test images via: 
-https://drive.google.com/drive/folders/1-Ph83oPgZAXDB5iKADSZgCjNb6-BP2Hk?usp=drive_link  *****
+# Inference
+
+1- Install nnU-Net from the original repository, or the code we shared here. 
+2- Download the trained models via the link: https://drive.google.com/drive/folders/1Fro2-AGPkQBmvlAqmahko-fMv7B21dXb?usp=sharing
+3- Copy the test images to "nnUNet_raw_data_base/nnUNet_raw_data/Task101_SCGM/imagesTs" and run the code:
+!nnUNet_predict -i nnUNet_raw_data_base/nnUNet_raw_data/Task101_SCGM/imagesTs -o nnUNet_Prediction_Results/Task101_SCGM -t 101 -tr nnUNetTrainerV2 -m 3d_fullres --num_threads_preprocessing 1
+
+
+
+# Please find the output segmented test images
+https://drive.google.com/drive/folders/1rQRjBqQOo2IEQUjfb6ypQv_g8sw3OdIZ?usp=sharing  *****
 
 Original Image: (Image No.88 from training data)
 </br>
