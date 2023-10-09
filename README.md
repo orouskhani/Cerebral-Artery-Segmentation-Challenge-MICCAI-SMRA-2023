@@ -24,7 +24,7 @@ AHDstenosis: 0.8482
 
 
 
-Please find the output segmented test images
+You can also find the segmented output of test images via:
 https://drive.google.com/drive/folders/1rQRjBqQOo2IEQUjfb6ypQv_g8sw3OdIZ?usp=sharing  *****
 
 Original Image: (Image No.88 from training data)
