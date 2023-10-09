@@ -27,6 +27,7 @@ AHDstenosis: 0.8482
 You can also find the segmented output of test images via: </br>
 https://drive.google.com/drive/folders/1rQRjBqQOo2IEQUjfb6ypQv_g8sw3OdIZ?usp=sharing
 
+# Example
 Original Image: (Image No.88 from training data)
 </br>
 ![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/snapshot0002.png)
